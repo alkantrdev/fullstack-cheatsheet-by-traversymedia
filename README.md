@@ -15,12 +15,12 @@ Traversy Media References
 - bootstrap
 - javascript
 
-## Extras
-
-- bootstrap-admin-theme : https://youtu.be/pXbEcGUtHgo
-- angular : https://youtu.be/3dHNOWTI7H8
-
-## MERN Stack
+## Next - MERN Stack
 
 - nodejs : https://youtu.be/fBNz5xF-Kx4
 - mern: https://youtube.com/playlist?list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm
+
+## Next - Extras
+
+- bootstrap-admin-theme : https://youtu.be/pXbEcGUtHgo
+- angular : https://youtu.be/3dHNOWTI7H8
