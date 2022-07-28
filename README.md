@@ -14,7 +14,7 @@ Traversy Media References
 - css
 - bootstrap
 - javascript
-- cms
+- admin-theme
 
 ## Next - MERN Stack
 
