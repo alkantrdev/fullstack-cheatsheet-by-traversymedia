@@ -13,8 +13,8 @@ Traversy Media References
 - html
 - css
 - bootstrap
-- javascript
 - admin-theme
+- javascript
 
 ## Next - MERN Intro
 
