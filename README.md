@@ -1,6 +1,6 @@
 # fullstack-cheatsheet-by-traversymedia
 
-Archive & Cheat-sheet for webdev, full stack basics from traversy media
+Archive & Cheat-sheet for webdevs, full stack basics from traversy media
 
 ## References & Credits
 Traversy Media References 
@@ -13,8 +13,8 @@ Traversy Media References
 - html
 - css
 - bootstrap
-- javascript
 - admin-theme
+- javascript
 
 ## Next - MERN Intro
 
