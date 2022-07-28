@@ -16,7 +16,7 @@ Traversy Media References
 - javascript
 - admin-theme
 
-## Next - MERN Stack
+## Next - MERN Intro
 
 - nodejs : https://youtu.be/fBNz5xF-Kx4
 - mern: https://youtube.com/playlist?list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm
