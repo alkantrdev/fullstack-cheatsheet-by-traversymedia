@@ -1,4 +1,4 @@
-# Mern
+# MERN
 
 MERN Stack
 
