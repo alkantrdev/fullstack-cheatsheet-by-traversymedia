@@ -6,7 +6,7 @@ MERN Stack
 - [GitHub](https://github.com/bradtraversy/mern-tutorial)
 - [Website](https://www.traversymedia.com/)
 
-# QuicStart
+## QuicStart
 
 ```json
 // package.json
