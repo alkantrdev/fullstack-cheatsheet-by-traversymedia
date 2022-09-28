@@ -26,7 +26,7 @@ npm run dev
 ```
 
 ## Scripts & Versions
-```node
+```bash
 node -v 16.15.1
 
 npm init
